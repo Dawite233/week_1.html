@@ -1,0 +1,22 @@
+.lalibela-info {
+    font-family:  Gabriola;
+    font-size: 20px;
+}
+#data-lalibela {
+    background: orange;
+}
+#\ lalu-data {
+    background: deepskyblue;
+}
+.decor {
+    background-color: darkkhaki;
+    border: 8px white double ;
+    margin: 10px;
+    padding: 15px;
+}
+.lalibela-decor {
+    background-color: darkkhaki;
+    border: 8px white double ;
+    margin: 10px;
+    padding: 15px;
+}

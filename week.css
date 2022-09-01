@@ -1,0 +1,425 @@
+body {
+    background-color: lightblue;
+    font-family:  "Gill Sans MT";
+    color: red;
+    font-family:  "High Tower Text";
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: darkslateblue;
+    font-family: Gabriola;
+
+}
+.header {
+    border: 5px white double ;
+    margin: 5px;
+    padding: -15px;
+    width: 300px border-box;
+
+}
+
+h2 {
+    text-align: -moz-left;
+    font-size: 30px;
+    color: red;
+    font-family: "High Tower Text";
+}
+
+h3 {
+    font-size: 30px;
+    color: red;
+    font-family: "High Tower Text";
+}
+
+h4 {
+    text-align: -webkit-left;
+    font-size: 30px;
+    color: red;
+    font-family: "High Tower Text";
+
+}
+
+img {
+    border-radius: 15px;
+}
+
+li {
+    list-style-type: square;
+    color: teal;
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px;
+
+
+
+}
+
+p {
+    color: peru;
+    font-size: 25px;
+
+}
+
+a {
+    background-color: gray;
+    color: yellow;
+    text-decoration: none;
+    font-family: Gabriola;
+}
+
+ul {
+    /*  Make backgorund of unordered list yello*/
+    background-color: ghostwhite;
+}
+#most-favorite {
+    background-color: greenyellow;
+    text-decoration:  underline;
+    color: mediumturquoise;
+}
+.second-favorite {
+    background-color: yellow;
+    text-decoration: none;
+    color: red;
+}
+
+.third-favorite {
+    background-color: orange;
+    color: mediumpurple;
+}
+
+#\ page-title\ {
+    text-shadow: 2px 2px greenyellow;
+}
+#h4-shadow{
+    text-shadow: 2px 2px lightcoral;
+}
+#h3-shadow {
+    text-shadow: 2px 2px lightcoral;
+}
+#h2-shadow {
+    text-shadow: 2px 2px lightcoral;
+}
+.made-name{
+    text-align: right;
+    font-size: 25px;
+    color:black;
+    text-shadow: 4px 4px antiquewhite;
+}
+
+#favorite-music-name {
+    background-color: floralwhite;
+}
+
+.favorite-section {
+    background-color: darkkhaki;
+    border: 8px white double ;
+    margin: 10px;
+    padding: 15px;
+}
+.list-square {
+    margin: 5px;
+    padding: 5px;
+    border: 10px teal solid;
+}
+
+.lalibela-info {
+    border-radius: 15px;
+    size: 12px;
+    font-weight: bolder;
+    text-align: center;
+}
+#\ lalibela-data {
+    border-radius: 15px;
+    size: 12px;
+    font-weight: bolder;
+    color: black;
+}
+.ethiopian-dish {
+    font-size: 40px;
+    font-family: Gabriola;
+    text-align: center;
+    color: rosybrown;
+    text-shadow: white;
+}
+.table-dish{
+    font-family: "Times New Roman";
+    color: darkcyan;
+    font-size: 30px;
+    text-align: center;
+}
+#header-dish{
+    color: mediumslateblue;
+    font-size: 35px;
+    background-color: peru;
+    font-family: Gabriola;
+}
+table, tr, th, td {
+    border: 1px black solid;
+    border-collapse:  collapse;
+}
+
+tr:nth-child(even) {
+    background-color: hotpink;
+}
+tr:nth-child(odd) {
+    background-color: white;
+}
+th {
+    width: 300px;
+}
+.para {
+    margin: 5px;
+    padding: 5px;
+    border: 10px teal dashed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
